@@ -23,7 +23,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "babel-preset-stage-1": "^6.1.18",
     "braintree-web": "^3.37.0",
     "braintree-web-drop-in": "^1.13.0",
